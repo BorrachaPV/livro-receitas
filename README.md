@@ -1,5 +1,4 @@
 #Receitas
 
-## Pure
-
 ##Strogooff
+##Pave
